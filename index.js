@@ -55,39 +55,27 @@ window.onload = function () {
 const reviews = [
   {
     id: 1,
-    name: "susan smith",
-    job: "web developer",
-    img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
-    text:
-      "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+    img: "https://media-exp1.licdn.com/dms/image/C4D22AQEjUqSwbGhbcA/feedshare-shrink_2048_1536/0/1652436911198?e=1671667200&v=beta&t=HaIKInEVzpULQmaQ0dn3yjGEnvd_j-03OBsyxkn84dA"
   },
   {
     id: 2,
-    name: "anna johnson",
-    job: "web designer",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
-    text:
-      "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
+      "https://media-exp1.licdn.com/dms/image/C5622AQF61F786v8NJA/feedshare-shrink_800/0/1664017881288?e=1671667200&v=beta&t=F8Bd2QJGxiv0DpRhQIzaB4QSAFb7Dog2ynLDq2xlxjg"
   },
   {
     id: 3,
-    name: "peter jones",
-    job: "intern",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
-    text:
-      "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+      "https://media-exp1.licdn.com/dms/image/C4D22AQHx5XJRfuzUgw/feedshare-shrink_1280/0/1663513861535?e=1671667200&v=beta&t=9EXrqstldhWIWQ6VirmEVAu62OjYogIydZk4Q2KPBTg"
   },
   {
     id: 4,
-    name: "bill anderson",
-    job: "the boss",
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
-    text:
-      "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+      "https://media-exp1.licdn.com/dms/image/C4D22AQHOW0Qwdsr7Vw/feedshare-shrink_1280/0/1663235085710?e=1671667200&v=beta&t=sr-eVL-oDTiSCPo2HYR9o43OIJnZ_8f7EJCMBOxLpO0"
+  },
+  {
+    id: 5,
+    img:
+      "https://media-exp1.licdn.com/dms/image/C4D22AQHGTtQRkJShOw/feedshare-shrink_1280/0/1657091363258?e=1671667200&v=beta&t=NrdyqWQ_19Ypc9USeiD3FUVP9dnCECd8pBSMU4mBhg0"
   },
 ];
 
