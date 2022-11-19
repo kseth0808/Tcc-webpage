@@ -215,6 +215,13 @@ width: 100%;
   .row {
     flex-direction: column;
   }
+  .about-col{
+    text-align: center;
+  }
+  .about-col img{
+    display: none;
+  }
+
 }
  /* End Course  */
  /* Start Campus  */
