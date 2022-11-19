@@ -7,12 +7,10 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/all.min.css">
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="./css/slider.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
 
   <title>Document</title>
 </head>
@@ -59,7 +57,7 @@
     </div>
     <hr>
     <br>
-    <div class="swiper mySwiper">
+    <!-- <div class="swiper mySwiper">
       <div class="swiper-wrapper">
         <div class="swiper-slide"><img src="./imgs2/img7.jpg" alt=""></div>
         <div class="swiper-slide"><img src="./imgs2/img8.jpg" alt=""></div>
@@ -67,7 +65,30 @@
       </div>
       <div class="swiper-button-next"></div>
       <div class="swiper-button-prev"></div>
-    </div>
+    </div> -->
+
+
+    <article class="review">
+      <div class="img-container">
+        <img src="person-1.jpeg" id="person-img" alt="" />
+      </div>
+      <h4 id="author">sara jones</h4>
+      <p id="job">ux designer</p>
+      <p id="info">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
+        asperiores debitis incidunt, eius earum ipsam cupiditate libero?
+        Iste, doloremque nihil?
+      </p>
+      <!-- prev next buttons-->
+      <div class="button-container">
+        <button class="prev-btn">
+          <i class="fas fa-chevron-left"></i>
+        </button>
+        <button class="next-btn">
+          <i class="fas fa-chevron-right"></i>
+        </button>
+      </div>
+    </article>
 <script src="./index.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 </body>
