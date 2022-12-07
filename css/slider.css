@@ -135,9 +135,6 @@ p {
   .section-center {
     width: 95vw;
   }
-  #person-img{
-    object-fit: cover;
-  }
 }
 main {
   min-height: 100vh;
@@ -188,4 +185,10 @@ main {
 .prev-btn:hover,
 .next-btn:hover {
   color: var(--clr-primary-5);
+}
+@media screen and (max-width: 592px){
+  .img-container{
+    width: 100%;
+    height: 50%;
+  }
 }

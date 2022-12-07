@@ -49,6 +49,26 @@ const reviews = [
     id: 5,
     img:
       "./imgs/img12.jpg"
+  },
+  {
+    id: 5,
+    img:
+      "./imgs/img13.jpg"
+  },
+  {
+    id: 5,
+    img:
+      "./imgs/img14.jpg"
+  },
+  {
+    id: 5,
+    img:
+      "./imgs/img15.jpg"
+  },
+  {
+    id: 5,
+    img:
+      "./imgs/img17.jpg"
   }
 ];
 
